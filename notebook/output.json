@@ -1,0 +1,25 @@
+{
+  "content": "Why don't skeletons fight each other?\n\nThey don't have the guts!",
+  "additional_kwargs": {},
+  "response_metadata": {
+    "token_usage": {
+      "completion_tokens": 64,
+      "prompt_tokens": 75,
+      "total_tokens": 139,
+      "completion_time": 0.057046686,
+      "prompt_time": 0.008459787,
+      "queue_time": 0.050912983,
+      "total_time": 0.065506473
+    },
+    "model_name": "openai/gpt-oss-20b",
+    "system_fingerprint": "fp_a5ac2a5d7b",
+    "finish_reason": "stop",
+    "logprobs": null
+  },
+  "id": "run-ae0a0dc4-839c-49fe-9606-c592a2318e85-0",
+  "usage_metadata": {
+    "input_tokens": 75,
+    "output_tokens": 64,
+    "total_tokens": 139
+  }
+}
