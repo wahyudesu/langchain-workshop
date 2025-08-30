@@ -537,9 +537,9 @@ layout: center
 
 ## What We Built
 
-- 🔄 **More know about Generative AI** with typed data flow
+- 🔄 **More know about Generative AI**
 - 🤖 **Know more about langchain**
-- 🎨 **How RAG Chat works** from frustrations
+- 🎨 **How RAG Chat works**
 - 📦 **More know about AI development**
 
 ---
@@ -550,8 +550,16 @@ layout: end
 
 <div class="text-xl mt-8">
 
-- https://business.udemy.com/resources/top-work-employee-skills-2025/
-- https://github.com/wahyudesu/Fastapi-AI-Production-Template
-- https://github.com/wahyudesu/langchain-workshop
-- https://python.langchain.com/docs/introduction/
+https://business.udemy.com/resources/top-work-employee-skills-2025/
+
+https://github.com/wahyudesu/Fastapi-AI-Production-Template
+
+https://github.com/wahyudesu/langchain-workshop
+
+https://python.langchain.com/docs/introduction/
+
+https://github.com/langchain-ai/langchain/tree/master/cookbook
+
+https://www.pinecone.io/learn/series/langchain/
+
 </div>
