@@ -75,10 +75,10 @@ layout: two-cols
 
 ## Experience:
 - 💻 **AI Engineer** - KANA Service
-- 📚 **Tech Lead** - Techfusion
+- 📚 **Tech Lead Researcher** - Techfusion
 - 🤖 **ML Engineer** - Gastronomi research
 - 📚 **Data Analyst** - KANOTARIA
-- 📚 **KORIKA AI Mentorship** - KORIKA
+- 📚 **AI Student Mentorship** - KORIKA
 
 ## Certificate
 - Data Scientist Associate - Datacamp
@@ -90,7 +90,14 @@ layout: two-cols
 
 <div class="flex justify-center items-center h-full">
 
-<img src="/wahyu-profile.jpg" class="w-36 h-36 rounded-full shadow-lg object-cover" />
+
+</div>
+
+<div class="flex absolute bottom-12 right-6 flex-col items-end text-sm">
+  <img src="/wahyu-profile.jpg" class="w-36 h-36 rounded-full shadow-lg object-cover mb8" />
+  <a href="https://medium.com/@wahyuikbal" target="_blank" class="">Medium</a>
+  <a href="https://github.com/wahyudesu" target="_blank" class=" mt-1">GitHub</a>
+  <a href="https://wahyuikbal.web.id" target="_blank" class=" mt-1">Personal Website</a>
 
 </div>
 ---
@@ -191,6 +198,10 @@ layout: center
 # Core Concepts of Langchain
 
 Understand the main components before starting to code
+
+<!--
+asdasdasdsa
+-->
 
 ---
 layout: two-cols
